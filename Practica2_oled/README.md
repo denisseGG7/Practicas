@@ -30,7 +30,7 @@ _Usando como ejemplo la conexión simulada, se hizo el circuito de forma física
 
 ## 2.1.2 Desplegar la hora de Internet usando Wi-Fi integrada para que interrogue un servidor NTP Time Server, en el OLED DIsplay
 ### Código Micropython
-_En este apartado se presenta el código .py para desplegar **Hola mundo**_
+_En este apartado se presenta el código .py para desplegar **hora de internet**_
 ```python
 
 ```
