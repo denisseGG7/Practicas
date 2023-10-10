@@ -27,3 +27,17 @@ _Utilizando el software de Wokwi se simulo la conexión en el Raspberry Pico W_
 _Usando como ejemplo la conexión simulada, se hizo el circuito de forma física_ 
 ![](ConexionFisica.png)
 ![](HolaM.png)
+
+## 2.1.2 Desplegar la hora de Internet usando Wi-Fi integrada para que interrogue un servidor NTP Time Server, en el OLED DIsplay
+### Código Micropython
+_En este apartado se presenta el código .py para desplegar **Hola mundo**_
+```python
+
+```
+### Conexión simulada
+_Utilizando el software de Wokwi se simulo la conexión en el Raspberry Pico W_
+![]()
+
+### Conexión física
+_Usando como ejemplo la conexión simulada, se hizo el circuito de forma física_ 
+![]()
