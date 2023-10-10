@@ -37,10 +37,10 @@ _En este apartado se presenta el código .py para desplegar **hora de internet**
 ```python
 
 ```
-### Conexión simulada
-_Utilizando el software de Wokwi se simulo la conexión en el Raspberry Pico W_
+### Resultados en consola
+_Despliegue de resultados que se muestran en la consola del software de Thonny_
 ![]()
 
 ### Conexión física
-_Usando como ejemplo la conexión simulada, se hizo el circuito de forma física_ 
+_Realización del circuito de forma física_ 
 ![]()
