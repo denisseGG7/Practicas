@@ -28,7 +28,7 @@ _Usando como ejemplo la conexión simulada, se hizo el circuito de forma física
 ![](ConexionFisica.png)
 ![](HolaM.png)
 
-_Se desplegó el texto *Guipzot 20211788* para modificación del mensaje básico_
+_Se desplegó el texto **Guipzot 20211788** para modificación del mensaje básico_
 ![](MensajeOled.png)
 
 ## 2.1.2 Desplegar la hora de Internet usando Wi-Fi integrada para que interrogue un servidor NTP Time Server, en el OLED DIsplay
