@@ -2,7 +2,7 @@
 
 ## 2.1.1 Práctica de inicio: Desplegar algo en pantalla, algunos quieren el logo de ISC, esta bien, otro texto simple en el OLED DIsplay
 ### Código Micropython
-_En este apartado se presenta el código .py para desplegar **Hola mundo**__
+_En este apartado se presenta el código .py para desplegar **Hola mundo**_
 ```python
 #librerías
 import machine
