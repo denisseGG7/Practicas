@@ -1,1 +1,1 @@
-# Practicas
+# Prácticas
