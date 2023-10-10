@@ -9,4 +9,6 @@ _Utilizando el software de Wokwi se simulo la conexión en el Raspberry Pico W_
 ![](ConexionSimulada.png)
 
 ### Conexión física
-_Usando como ejemplo la conexión simulada, se hizo el circuito de forma física_ ![](ConexionFisica.png)
+_Usando como ejemplo la conexión simulada, se hizo el circuito de forma física_ 
+![](ConexionFisica.png)
+![](HolaM.png)
