@@ -102,4 +102,3 @@ _Despliegue de resultados que se muestran en la consola del software de Thonny_
 
 ### Conexión física
 _Realización del circuito de forma física_ 
-![](ConexionFisHora.png)
