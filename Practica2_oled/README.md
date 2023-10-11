@@ -1,7 +1,7 @@
 # Practica 2.1 Hola mundo y la Hora de internet
 
 ## 2.1.1 Práctica de inicio: Desplegar algo en pantalla, algunos quieren el logo de ISC, esta bien, otro texto simple en el OLED DIsplay
->Autor: Guipzot Garibay Denisse Abigail
+>Autor: Guipzot Garibay Denisse Abigail 20211788 SC7C
  
 ### Código Micropython
 _En este apartado se presenta el código .py para desplegar **Hola mundo**_
