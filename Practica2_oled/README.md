@@ -97,6 +97,7 @@ while True:
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
+![](consolamsj.png)
 ![](DespliegueConsola.png)
 
 ### Conexión física
