@@ -42,23 +42,16 @@ def despliegue_oled(oled, hr):
     oled.text(hr, 0, 16)
     oled.show()
 
-#bloque principal del programa y llamadas a las funciones
-def main():
-    #definición de red a la que se hará la conexión
-    ssid = "TecNM-ITT-Docentes 2"
-    contra = "tecnm2022!"
+#definición de red a la que se hará la conexión
+ssid = "TecNM-ITT-Docentes 2"
+contra = "tecnm2022!"
+#llamada a la función y envío de parametros
+conexion(ssid, contra) 
+oled = config_pantalla()
 
-    #llamada a la función y envío de parametros
-    conexion(ssid, contra) 
-    oled = config_pantalla()
-
-    #blucle para imprimir en la pantalla y consola los resultados
-    while True:
-        hr = hr_internet()
-        print("Hora actual:", hr)
-        despliegue_oled(oled, hr)
-        utime.sleep(60)
-
-#condición para ejecutar el código
-if __name__ == '__main__':
-    main()
+#blucle para imprimir en la pantalla y consola los resultados
+while True:
+    hr = hr_internet()
+    print("Hora actual:", hr)
+    despliegue_oled(oled, hr)
+    utime.sleep(60)
