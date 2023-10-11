@@ -93,7 +93,7 @@ if __name__ == '__main__':
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
-![]()
+![](DespliegueConsola.png)
 
 ### Conexión física
 _Realización del circuito de forma física_ 
