@@ -67,7 +67,6 @@ def config_pantalla():
     oled = ssd1306.SSD1306_I2C(128, 64, i2c)
     return oled
 
-
 def despliegue_oled(oled, hr):
     #despliegue de resultados en pantalla
     oled.fill(0)
@@ -97,4 +96,4 @@ _Despliegue de resultados que se muestran en la consola del software de Thonny_
 
 ### Conexión física
 _Realización del circuito de forma física_ 
-![]()
+![](ConexionFisHora.png)
