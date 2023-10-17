@@ -3,7 +3,7 @@
 >Autor: Guipzot Garibay Denisse Abigail 20211788 SC7C
  
 ### Código Micropython
-_En este apartado se presenta el código .py para desplegar **Hola mundo**_
+_En este apartado se presenta el código .py para desplegar **animación de temperatura**_
 ```python
 
 ```
