@@ -5,6 +5,8 @@
 ### Código Micropython
 _En este apartado se presenta el código .py para desplegar **animación de temperatura**_
 ```python
+#Guipzot Garibay Denisse Abigail 20211788
+
 #librerías
 from machine import ADC
 import utime
