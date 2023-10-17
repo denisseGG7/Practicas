@@ -9,7 +9,7 @@ _En este apartado se presenta el código .py para desplegar **animación de temp
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
-![]()
+![](Imagenes/SalidaConsola.png)
 
 ### Conexión física
 _Realización del circuito de forma física_ 
