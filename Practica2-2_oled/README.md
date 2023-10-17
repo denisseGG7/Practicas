@@ -887,7 +887,3 @@ _Despliegue de resultados que se muestran en la consola del software de Thonny_
 _Realización del circuito de forma física_ 
 >Calor
 ![](Imagenes/calor.png)
->Templado
-![](Imagenes/temp.png)
->Fríp
-![](Imagenes/cold.png)
