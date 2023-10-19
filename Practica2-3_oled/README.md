@@ -361,6 +361,7 @@ while True:
             elif Seleccion == 3:
                 Opcion2(oled) ##llamar a la función y mostrar 
                 Seleccion = 2
+        
         elif cmdAbajo.value() == 0:
             print("Botón abajo")
             if Seleccion == 1:
@@ -369,6 +370,7 @@ while True:
             elif Seleccion == 2:
                 Opcion3(oled) #llamar a la función y mostrar 
                 Seleccion = 3
+        
         elif cmdSeleccionar.value() == 0:
             print("Selección")
             Menu = False
@@ -381,6 +383,7 @@ while True:
             elif Seleccion == 3:
                 print("Opción 3: Avión")
                 ImgAvion(oled) #despliegue
+    
     elif cmdSeleccionar.value() == 0:
         Menu = True
         if Seleccion == 1:
@@ -388,7 +391,8 @@ while True:
         elif Seleccion == 2:
             Menu2(oled) #llamar a la función y mostrar 
         elif Seleccion == 3:
-            Opcion3(oled) #llamar a la función y mostrar 
+            Opcion3(oled) #llamar a la función y mostrar
+            
     sleep(0.1) #tiempo para reflejar cambios
 ```
 ### Resultados en consola
