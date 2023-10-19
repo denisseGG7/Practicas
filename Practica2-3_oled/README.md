@@ -1,4 +1,4 @@
-# 2.3 Elabore un menú en OLED Display (MENU DE NAVEGACION) y TIPOS LETRA personalizadas
+# 2.3 Elabore un menú en OLED Display (MENÚ DE NAVEGACIÓN) y TIPOS LETRA personalizadas
 
 >Autor: Guipzot Garibay Denisse Abigail 20211788 SC7C
  
@@ -401,6 +401,7 @@ _Despliegue de resultados que se muestran en la consola del software de Thonny_
 
 ### Conexión física
 _Realización del circuito de forma física_ 
+
 **Menú (1)**
 ![](Imagenes/Menu.png)
 **Menú (2)**
