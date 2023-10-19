@@ -281,7 +281,7 @@ Avion = bytearray([0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0
 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 ])
 
-#configuración de pines para el uso y el despligue en pantalla
+#configuración de pines para el uso y el despligue en pantalla OLED
 i2c = I2C(0, scl=Pin(21), sda=Pin(20), freq=200000)
 oled = SSD1306_I2C(128, 64, i2c)
 
@@ -353,6 +353,7 @@ while True:
     #selección y despliegue de opciones
     if Menu == True:
         #movimiento del cursor por medio de los botones
+        #movimiento y selección de botón arriba
         if cmdArriba.value() == 0:
             print("Botón arriba")
             if Seleccion == 2:
@@ -361,7 +362,8 @@ while True:
             elif Seleccion == 3:
                 Opcion2(oled) ##llamar a la función y mostrar 
                 Seleccion = 2
-        
+
+        #movimiento y selección de botón abajo
         elif cmdAbajo.value() == 0:
             print("Botón abajo")
             if Seleccion == 1:
@@ -370,7 +372,8 @@ while True:
             elif Seleccion == 2:
                 Opcion3(oled) #llamar a la función y mostrar 
                 Seleccion = 3
-        
+
+        #movimiento y selección de botón para seleccionar        
         elif cmdSeleccionar.value() == 0:
             print("Selección")
             Menu = False
@@ -383,7 +386,8 @@ while True:
             elif Seleccion == 3:
                 print("Opción 3: Avión")
                 ImgAvion(oled) #despliegue
-    
+
+    #selección de opciones para mostrar su contenido (imágenes)
     elif cmdSeleccionar.value() == 0:
         Menu = True
         if Seleccion == 1:
