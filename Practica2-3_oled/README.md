@@ -9,7 +9,7 @@ _En este apartado se presenta el código .py para desplegar un **menú de opcion
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
-![](Imagenes/SalidaOpciones.png)
+![](Imagenes/SalidaOp.png)
 
 ### Conexión física
 _Realización del circuito de forma física_ 
@@ -20,6 +20,6 @@ _Realización del circuito de forma física_
 **Opción 1**
 ![](Imagenes/mariposa.png)
 **Opción 2**
-![]()
+![](Imagenes/flor.png)
 **Opción 3**
-![]()
+![](Imagenes/Avion.png)
