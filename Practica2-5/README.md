@@ -3,7 +3,7 @@
 >Autor: Guipzot Garibay Denisse Abigail 20211788 SC7C
  
 ### Código Micropython
-_En este apartado se presenta el código .py para desplegar un **menú de opciones**_
+_En este apartado se presenta el código .py para  **encender/apagar BLINL led interno vía WEB**_
 ```python
 #Guipzot Garibay Denisse Abigail 20211788
 #Sistemas Programables SC7C
@@ -152,5 +152,4 @@ _Capturas de pantalla del navegador_
 ![](Imagenes/LedOFF.png)
 
 **Vídeo de funcionalidad**
-https://www.canva.com/design/DAFyD66j3LM/tKhPxuCDy2VlB4nkbc7sQ/editutm_content=DAFyD66j3LM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 [VideoCanva](https://www.canva.com/design/DAFyD66j3LM/tKh-PxuCDy2VlB4nkbc7sQ/edit?utm_content=DAFyD66j3LM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
