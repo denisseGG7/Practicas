@@ -147,6 +147,7 @@ _Despliegue de resultados que se muestran en la consola del software de Thonny_
 
 ### Interfaz gráfica 
 _Capturas de pantalla del navegador_ 
+
 ![](Imagenes/LedON.png)
 ![](Imagenes/LedOFF.png)
 
