@@ -151,5 +151,5 @@ _Capturas de pantalla del navegador_
 ![](Imagenes/LedON.png)
 ![](Imagenes/LedOFF.png)
 
-**Vídeo de funcionalidad**
-[VideoCanva](https://www.canva.com/design/DAFyD66j3LM/tKh-PxuCDy2VlB4nkbc7sQ/edit?utm_content=DAFyD66j3LM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Vídeo de funcionalidad](https://www.canva.com/design/DAFyD66j3LM/tKh-PxuCDy2VlB4nkbc7sQ/edit?utm_content=DAFyD66j3LM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
