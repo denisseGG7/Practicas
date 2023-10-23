@@ -127,7 +127,7 @@ while True:
             led.value(0)
         
         #despliegue de resultado en interfaz html
-        BlinkLed = "Estado led interno: ON" if led.value() == 0 else "Estado led interno: OFF" 
+        BlinkLed = "Estado led interno: OFF" if led.value() == 0 else "Estado led interno: ON" 
         
         estadoLED = html % BlinkLed #mostrar en página
         usuario.send('HTTP/1.0 200 OK\r\nContent-type: text/html\r\n\r\n')
