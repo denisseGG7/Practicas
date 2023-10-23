@@ -142,9 +142,12 @@ while True:
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
 ![](Imagenes/ConexExitosa.png)
+![](Imagenes/petición.png)
 ![](Imagenes/ConexFallida.png)
 
 ### Interfaz gráfica 
 _Capturas de pantalla del navegador_ 
+![](Imagenes/LedON.png)
+![](Imagenes/LedOFF.png)
 
 **Vídeo de funcionalidad**
