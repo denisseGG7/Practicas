@@ -126,7 +126,7 @@ if __name__ == "__main__":
     principal()
 ```
 
-_A continuación se presenta la librería necesaria para crear una conexión tipo bluetooth, la cual, el programa principal manda a llamar en la ejecución del programa_
+_A continuación se presenta la librería necesaria para crear una conexión tipo bluetooth, la cual, el programa principal manda a llamar en tiempo de ejecución
 ```python
 from micropython import const
 import struct
