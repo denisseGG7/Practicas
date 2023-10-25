@@ -214,10 +214,12 @@ _Capturas de pantalla de la aplicación_
 
 _**Prender LED**_
 
-![](Imagenes/LED1.png)
-
 ![](Imagenes/cod1.png)
 
 _**Apagar LED**_
 
 ![](Imagenes/cod0.png)
+
+_**LED en estado ON**_
+
+![](Imagenes/LED1.png)
