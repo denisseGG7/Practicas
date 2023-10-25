@@ -204,7 +204,7 @@ if __name__ == "__main__":
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
-![](Imagenes/ResConsola.png)
+![](Imagenes/ResulConsola.png)
 
 ### Interfaz gráfica 
 _Capturas de pantalla de la aplicación_ 
@@ -213,6 +213,8 @@ _Capturas de pantalla de la aplicación_
 ![](Imagenes/config.png)
 
 _**Prender LED**_
+
+![](Imagenes/LED1.png)
 
 ![](Imagenes/cod1.png)
 
