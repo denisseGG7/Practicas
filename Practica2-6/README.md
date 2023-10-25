@@ -219,5 +219,3 @@ _**Prender LED**_
 _**Apagar LED**_
 
 ![](Imagenes/cod0.png)
-
-[Vídeo de funcionalidad]()
