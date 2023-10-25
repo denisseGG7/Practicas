@@ -135,10 +135,12 @@ _Capturas de pantalla de la aplicación_
 ![](Imagenes/Dispositivo.png)
 ![](Imagenes/config.png)
 
-_Prender LED_
+_**Prender LED**_
+
 ![](Imagenes/cod1.png)
 
-_Apagar LED_
+_**Apagar LED**_
+
 ![](Imagenes/cod0.png)
 
 [Vídeo de funcionalidad]()
