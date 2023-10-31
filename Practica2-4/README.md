@@ -125,9 +125,10 @@ while True:
 ```
 ### Resultados en consola
 _Despliegue de resultados que se muestran en la consola del software de Thonny_
-![]()
+![](Imagenes/Cons.png)
 
 ### Modelo físico 
 _Construcción del circuito en manera física y despliegue de resultados_ 
 
-![]()
+![](Imagenes/msjOled.png)
+![](Imagenes/Actriz.png)
